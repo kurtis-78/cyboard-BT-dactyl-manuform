@@ -5,9 +5,6 @@
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/ext_power.h>
 
-/ {
-    chosen { zmk,matrix-transform = &dactyl_manuform_function_row_full_bottom_row; 
-    };
     keymap {
         compatible = "zmk,keymap";
 
