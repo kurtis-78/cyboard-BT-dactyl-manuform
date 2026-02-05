@@ -25,7 +25,7 @@
         Layer__1 {
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans                                 &trans        &kp PSCRN    &kp SLCK    &kp PAUSE_BREAK     &trans  &trans
-&trans  &kp KP_SUBTRACT  &kp KP_ASTERISK  &kp KP_SLASH  &trans  &trans         &trans        &kp INS      &kp HOME    &kp PG_UP     &trans  &trans
+&trans  &kp KP_SUBTRACT  &kp KP_ASTERISK  &kp KP_SLASH  &kp KP_NLCK  &trans         &trans        &kp INS      &kp HOME    &kp PG_UP     &trans  &trans
 &trans  &trans  &kp KP_N9  &kp KP_N8  &kp KP_N7  &trans                        &trans        &kp DEL      &kp END    &kp PG_DN    &trans  &trans
 &trans  &kp KP_PLUS  &kp KP_N6  &kp KP_N5  &kp KP_N4  &trans                 &trans        &trans       &trans    &trans      &trans  &trans
 &trans  &trans  &kp KP_N3  &kp KP_N2  &kp KP_N1  &trans                        &trans        &trans       &trans    &trans     &trans  &trans
